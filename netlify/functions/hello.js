@@ -29,7 +29,7 @@ exports.handler = async event => {
     const subject = await joke();
     return {
         statusCode: 200,
-        body: `Hello ${subject}!`,
+        body: subject,
         headers: {
 			'Netlify-CDN-Cache-Control': 'public, durable, max-age=60, stale-while-revalidate=120'
 		}
