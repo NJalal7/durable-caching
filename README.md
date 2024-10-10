@@ -1,6 +1,6 @@
 ![Netlify Examples](https://github.com/netlify/examples/assets/5865/4145aa2f-b915-404f-af02-deacee24f7bf)
 
-# Implement Durable Caching on API Responses Using Serverless Functions
+# How To Implement Durable Caching on API Responses Using Serverless Functions
 
 **View this demo site**: [https://durable-caching-nj.netlify.app/api/hello](https://durable-caching-nj.netlify.app/api/hello)
 
@@ -10,7 +10,7 @@
 
 ## About this example site
 
-This repository showcases how to implement durable caching using Netlify Functions. The example dynamically serves random dad jokes while utilizing Netlify's Durable Cache for optimized performance.
+This repository showcases how to implement durable caching on API responses using serverless functions. The example serves random dad jokes while utilizing Netlify's Durable Cache for optimized performance.
 
 
 - [About Netlify Functions](https://www.netlify.com/products/functions/?utm_campaign=dx-examples&utm_source=example-site&utm_medium=web&utm_content=example-hello-functions)
